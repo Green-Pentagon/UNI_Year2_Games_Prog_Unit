@@ -1,0 +1,35 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (sfml_test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Particle.cpp
+F:\University\Year 2\Games Programming\Week 3 - Pointers and Memory Management\Lab_work_particle_system\Particle.h(24,115): warning C4244: 'argument': conversion from 'T' to 'sf::Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 3 - Pointers and Memory Management\Lab_work_particle_system\Particle.h(24,74): warning C4244: 'argument': conversion from 'T' to 'sf::Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 3 - Pointers and Memory Management\Lab_work_particle_system\ParticleSystem.h(24,29): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  sfml_program.cpp
+F:\University\Year 2\Games Programming\Week 3 - Pointers and Memory Management\Lab_work_particle_system\Particle.h(24,115): warning C4244: 'argument': conversion from 'T' to 'sf::Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 3 - Pointers and Memory Management\Lab_work_particle_system\Particle.h(24,74): warning C4244: 'argument': conversion from 'T' to 'sf::Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 3 - Pointers and Memory Management\Lab_work_particle_system\ParticleSystem.h(24,29): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  sfml_program.vcxproj -> F:\University\Year 2\Games Programming\Week 3 - Pointers and Memory Management\Lab_work_particle_system\x64\Debug\sfml_program.exe

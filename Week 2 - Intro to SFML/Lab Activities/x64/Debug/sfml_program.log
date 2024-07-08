@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (sfml_test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  sfml_program.cpp
+E:\University\Year 2\Games Programming\Week 2 - Intro to SFML\Lab Activities\sfml_program.cpp(12,32): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\University\Year 2\Games Programming\Week 2 - Intro to SFML\Lab Activities\sfml_program.cpp(13,32): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\University\Year 2\Games Programming\Week 2 - Intro to SFML\Lab Activities\sfml_program.cpp(111,10): error C2535: 'void PongBat::setPos(sf::Vector2f)': member function already defined or declared
+E:\University\Year 2\Games Programming\Week 2 - Intro to SFML\Lab Activities\sfml_program.cpp(106,10): message : see declaration of 'PongBat::setPos'

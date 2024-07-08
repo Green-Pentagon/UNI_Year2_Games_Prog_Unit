@@ -1,0 +1,53 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (sfml_test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LevelEditor.cpp
+F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\LevelEditor.h(43,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\LevelEditor.h(43,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\LevelEditor.cpp(40,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\LevelEditor.cpp(40,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\LevelEditor.cpp(45,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\LevelEditor.cpp(45,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\LevelEditor.cpp(64,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\LevelEditor.cpp(64,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\LevelEditor.cpp(73,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\LevelEditor.cpp(73,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  sfml_program.vcxproj -> F:\University\Year 2\Games Programming\Week 10 - Observer & Command Patterns\Lab_Work\x64\Debug\sfml_program.exe

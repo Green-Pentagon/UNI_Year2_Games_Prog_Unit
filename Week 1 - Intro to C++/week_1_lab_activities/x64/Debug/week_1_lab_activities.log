@@ -1,0 +1,3 @@
+﻿  week_1_lab_activities.cpp
+F:\University\Year 2\Games Programming\Week 1 - Intro to C++\week_1_lab_activities\week_1_lab_activities.cpp(9,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  week_1_lab_activities.vcxproj -> F:\University\Year 2\Games Programming\Week 1 - Intro to C++\week_1_lab_activities\x64\Debug\week_1_lab_activities.exe
